@@ -93,7 +93,7 @@ body{
 }
 
 .cart:hover{
-    color: hsl(212, 21%, 14%);
+    background-color: hsl(212, 21%, 14%);
 }
 @media (max-width: 700px) { 
     .container 
