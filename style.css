@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@500&family=Karla:wght@500&family=Kumbh+Sans:wght@400;700&family=League+Spartan&family=Lexend+Deca:wght@400;700&family=Montserrat:wght@500&family=Mukta:wght@800&family=Outfit:wght@400;700&family=Poppins:wght@600&family=Roboto&display=swap');
 
 body{
-    margin: 0;
+    margin: 20px;
     padding: 0;
     background-color: hsl(30, 38%, 92%);
 }
